@@ -1,12 +1,4 @@
-Configure OpenVPN All actions are performed with root superuser privileges.
-1 OpenVPN
-
-  sudo -i
-  apt-get update
-  apt-get install openvpn
-
-2 Network Manager
-
-  sudo apt-get install network-manager-openvpn-gnome
-
-3 Click on the asterisk no money
+sudo -i
+apt-get update
+apt-get install openvpn
+sudo apt-get install network-manager-openvpn-gnome
